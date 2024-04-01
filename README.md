@@ -9,6 +9,5 @@ HACKERRANK_PRACTICES_SQL
 - Thời gian: từ 12/12/2023 đến ??/??/????
 
 Phần I: SELECT cơ bản (17 bài)
-1. [Các thành phố châu Phi]
-(https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)
+1. [Các thành phố châu Phi](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true)
 2. [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true)
