@@ -7,3 +7,6 @@ HACKERRANK_PRACTICES_SQL
 - Mã sản phẩm: chia làm 4 phần
 - Người làm: DUCNASE00292x
 - Thời gian: từ 12/12/2023 đến ??/??/????
+
+Phần I: SELECT cơ bản (17 bài)
+1.
