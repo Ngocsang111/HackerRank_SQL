@@ -9,4 +9,4 @@ HACKERRANK_PRACTICES_SQL
 - Thời gian: từ 12/12/2023 đến ??/??/????
 
 Phần I: SELECT cơ bản (17 bài)
-1.
+1. https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
